@@ -9,8 +9,20 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🇹🇬 Énergie & Transition écologique au Togo")
-st.markdown("Accès à l'électricité, énergies propres et protection des forêts")
+st.markdown("""
+<div style="
+    background-color: #f0f2f6;
+    border-left: 5px solid #4a90d9;
+    border-radius: 8px;
+    padding: 20px 25px;
+    margin-bottom: 20px;
+">
+    <h1 style="margin: 0; color: #1a1a1a;">Énergie & Transition écologique au Togo</h1>
+    <p style="margin: 8px 0 0 0; color: #555; font-size: 16px;">
+        Accès à l'électricité, énergies propres et protection des forêts
+    </p>
+</div>
+""", unsafe_allow_html=True)
 
 
 # --- Chargement des données ---
@@ -34,12 +46,12 @@ df_elec, df_menage, df_emissions, df_temp, df_co2, df_ren, df_forets = load_data
 # ============================================================
 st.sidebar.header("📊 Sections du dashboard")
 show_apropos = st.sidebar.checkbox("À propos du projet", value=True)
-
 show_elec = st.sidebar.checkbox("1. Accès à l'électricité", value=True)
 show_menage = st.sidebar.checkbox("2. Énergie des ménages", value=True)
 show_emissions = st.sidebar.checkbox("3. Émissions polluantes", value=True)
 show_climat = st.sidebar.checkbox("4. Variations climatiques", value=True)
 show_forets = st.sidebar.checkbox("5. Cartographie des forêts", value=True)
+show_recommandations = st.sidebar.checkbox("6. Recommandations", value=True)
 
 st.sidebar.markdown("---")
 st.sidebar.header("🔧 Filtres")
@@ -47,6 +59,7 @@ st.sidebar.header("🔧 Filtres")
 annee_min = int(min(df_elec['annee'].min(), df_menage['annee'].min(), df_co2['annee'].min()))
 annee_max = int(max(df_elec['annee'].max(), df_menage['annee'].max(), df_co2['annee'].max()))
 liste_annees = list(range(annee_max, annee_min - 1, -1))  # ordre décroissant : 2022, 2021, ...
+
 annee_fin = st.sidebar.selectbox(
     "Afficher jusqu'à l'année",
     liste_annees,
@@ -57,8 +70,9 @@ plage_annees = (annee_min, annee_fin)
 st.sidebar.caption(f"Données jusqu'en {annee_fin}")
 st.sidebar.caption("ℹ️ S'applique aux sections 1, 2 et 3 (électricité, ménages, émissions)")
 
+
 # ============================================================
-# SECTION 1 — Accès à l'électricité
+# SECTION "À PROPOS"
 # ============================================================
 if show_apropos:
     st.divider()
@@ -80,6 +94,11 @@ if show_apropos:
 
     **Sources des données** : Banque Mondiale (World Development Indicators), données nationales togolaises.
     """)
+
+
+# ============================================================
+# SECTION 1 — Accès à l'électricité
+# ============================================================
 if show_elec:
     st.divider()
     st.header("1. Accès à l'électricité")
@@ -287,3 +306,56 @@ if show_forets:
         ).add_to(m)
 
     st_folium(m, use_container_width=True, height=500, key="carte_forets")
+
+
+# ============================================================
+# SECTION 6 — Recommandations
+# ============================================================
+if show_recommandations:
+    st.divider()
+    st.header("6. Recommandations pratiques")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("⚡ Électrification rurale")
+        st.markdown("""
+        - Déployer des **kits solaires individuels** ou des mini-réseaux solaires dans les villages
+          non raccordés au réseau national
+        - Prioriser les zones rurales les plus peuplées mais les moins couvertes en électricité
+        - Réduire les délais et coûts de connexion pour encourager le raccordement des ménages
+        """)
+
+    with col2:
+        st.subheader("🔥 Cuisson propre")
+        st.markdown("""
+        - Subventionner les **foyers améliorés** et le gaz (LPG) pour réduire la dépendance au bois/charbon
+        - Sensibiliser les ménages ruraux à l'impact du bois de chauffe sur la déforestation
+        - Développer des filières locales de production de gaz ou de biogaz
+        """)
+
+    st.subheader("🌳 Protection des forêts")
+    st.markdown("""
+    - Renforcer la surveillance des 53 zones classées, en priorité celles proches des zones à forte pression démographique
+    - Accompagner les communes limitrophes des forêts classées avec des alternatives énergétiques (réduit la pression sur le bois)
+    - Développer le reboisement dans les régions où la déforestation est la plus marquée (Agriculture & Foresterie représentant l'essentiel des émissions du pays)
+    """)
+
+
+# ============================================================
+# FOOTER
+# ============================================================
+st.markdown("""
+<div style="
+    background-color: #f0f2f6;
+    border-left: 5px solid #4a90d9;
+    border-radius: 8px;
+    padding: 15px 25px;
+    margin-top: 40px;
+    text-align: center;
+">
+    <p style="margin: 0; color: #555; font-size: 14px;">
+        Défi 2 — Énergie & Transition écologique au Togo · Dashboard réalisé par Abdoulaye Ridwan
+    </p>
+</div>
+""", unsafe_allow_html=True)

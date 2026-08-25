@@ -33,6 +33,7 @@ df_elec, df_menage, df_emissions, df_temp, df_co2, df_ren, df_forets = load_data
 # SIDEBAR : navigation + filtres globaux
 # ============================================================
 st.sidebar.header("📊 Sections du dashboard")
+show_apropos = st.sidebar.checkbox("À propos du projet", value=True)
 
 show_elec = st.sidebar.checkbox("1. Accès à l'électricité", value=True)
 show_menage = st.sidebar.checkbox("2. Énergie des ménages", value=True)
@@ -54,10 +55,31 @@ annee_fin = st.sidebar.selectbox(
 )
 plage_annees = (annee_min, annee_fin)
 st.sidebar.caption(f"Données jusqu'en {annee_fin}")
+st.sidebar.caption("ℹ️ S'applique aux sections 1, 2 et 3 (électricité, ménages, émissions)")
 
 # ============================================================
 # SECTION 1 — Accès à l'électricité
 # ============================================================
+if show_apropos:
+    st.divider()
+    st.header("À propos du projet")
+    st.markdown("""
+    Ce tableau de bord a été réalisé dans le cadre du **Défi 2 — Énergie & Transition écologique au Togo**.
+
+    **Contexte** : le Togo vise l'accès universel à l'électricité d'ici 2030, tout en développant les énergies
+    propres et en protégeant ses forêts. Si les villes sont bien électrifiées, les campagnes restent en retard,
+    et la majorité des ménages dépend encore du bois et du charbon de bois pour cuisiner — ce qui fragilise
+    les forêts togolaises.
+
+    **Ce dashboard analyse 6 jeux de données** pour :
+    - Comparer l'accès à l'électricité entre villes et villages
+    - Mesurer la dépendance des ménages au bois/charbon pour la cuisson
+    - Dresser le bilan des émissions de gaz à effet de serre par secteur
+    - Observer les variations climatiques du Sud au Nord du pays
+    - Cartographier les 53 forêts classées et zones protégées
+
+    **Sources des données** : Banque Mondiale (World Development Indicators), données nationales togolaises.
+    """)
 if show_elec:
     st.divider()
     st.header("1. Accès à l'électricité")

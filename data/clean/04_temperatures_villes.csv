@@ -1,0 +1,1681 @@
+ville,annee,mois,type_temp,valeur_celsius,unite
+Atakpamé,2013,1,temp_max,34,°C
+Atakpamé,2013,1,temp_min,23,°C
+Atakpamé,2013,2,temp_max,36,°C
+Atakpamé,2013,2,temp_min,23,°C
+Atakpamé,2013,3,temp_max,34,°C
+Atakpamé,2013,3,temp_min,23,°C
+Atakpamé,2013,4,temp_max,32,°C
+Atakpamé,2013,4,temp_min,22,°C
+Atakpamé,2013,5,temp_max,31,°C
+Atakpamé,2013,5,temp_min,22,°C
+Atakpamé,2013,6,temp_max,30,°C
+Atakpamé,2013,6,temp_min,21,°C
+Atakpamé,2013,7,temp_max,29,°C
+Atakpamé,2013,7,temp_min,20,°C
+Atakpamé,2013,8,temp_max,30,°C
+Atakpamé,2013,8,temp_min,21,°C
+Atakpamé,2013,9,temp_max,30,°C
+Atakpamé,2013,9,temp_min,21,°C
+Atakpamé,2013,10,temp_max,32,°C
+Atakpamé,2013,10,temp_min,21,°C
+Atakpamé,2013,11,temp_max,34,°C
+Atakpamé,2013,11,temp_min,22,°C
+Atakpamé,2013,12,temp_max,34,°C
+Atakpamé,2013,12,temp_min,22,°C
+Atakpamé,2014,1,temp_max,35,°C
+Atakpamé,2014,1,temp_min,22,°C
+Atakpamé,2014,2,temp_max,35,°C
+Atakpamé,2014,2,temp_min,23,°C
+Atakpamé,2014,3,temp_max,34,°C
+Atakpamé,2014,3,temp_min,22,°C
+Atakpamé,2014,4,temp_max,34,°C
+Atakpamé,2014,4,temp_min,23,°C
+Atakpamé,2014,5,temp_max,32,°C
+Atakpamé,2014,5,temp_min,23,°C
+Atakpamé,2014,6,temp_max,31,°C
+Atakpamé,2014,6,temp_min,22,°C
+Atakpamé,2014,7,temp_max,30,°C
+Atakpamé,2014,7,temp_min,21,°C
+Atakpamé,2014,8,temp_max,28,°C
+Atakpamé,2014,8,temp_min,21,°C
+Atakpamé,2014,9,temp_max,30,°C
+Atakpamé,2014,9,temp_min,21,°C
+Atakpamé,2014,10,temp_max,32,°C
+Atakpamé,2014,10,temp_min,21,°C
+Atakpamé,2014,11,temp_max,33,°C
+Atakpamé,2014,11,temp_min,22,°C
+Atakpamé,2014,12,temp_max,34,°C
+Atakpamé,2014,12,temp_min,22,°C
+Atakpamé,2015,1,temp_max,33,°C
+Atakpamé,2015,1,temp_min,22,°C
+Atakpamé,2015,2,temp_max,36,°C
+Atakpamé,2015,2,temp_min,23,°C
+Atakpamé,2015,3,temp_max,34,°C
+Atakpamé,2015,3,temp_min,23,°C
+Atakpamé,2015,4,temp_max,33,°C
+Atakpamé,2015,4,temp_min,23,°C
+Atakpamé,2015,5,temp_max,33,°C
+Atakpamé,2015,5,temp_min,23,°C
+Atakpamé,2015,6,temp_max,31,°C
+Atakpamé,2015,6,temp_min,21,°C
+Atakpamé,2015,7,temp_max,30,°C
+Atakpamé,2015,7,temp_min,21,°C
+Atakpamé,2015,8,temp_max,29,°C
+Atakpamé,2015,8,temp_min,21,°C
+Atakpamé,2015,9,temp_max,30,°C
+Atakpamé,2015,9,temp_min,21,°C
+Atakpamé,2015,10,temp_max,31,°C
+Atakpamé,2015,10,temp_min,22,°C
+Atakpamé,2015,11,temp_max,33,°C
+Atakpamé,2015,11,temp_min,22,°C
+Atakpamé,2015,12,temp_max,33,°C
+Atakpamé,2015,12,temp_min,22,°C
+Atakpamé,2016,1,temp_max,34,°C
+Atakpamé,2016,1,temp_min,23,°C
+Atakpamé,2016,2,temp_max,36,°C
+Atakpamé,2016,2,temp_min,24,°C
+Atakpamé,2016,3,temp_max,36,°C
+Atakpamé,2016,3,temp_min,23,°C
+Atakpamé,2016,4,temp_max,34,°C
+Atakpamé,2016,4,temp_min,23,°C
+Atakpamé,2016,5,temp_max,33,°C
+Atakpamé,2016,5,temp_min,24,°C
+Atakpamé,2016,6,temp_max,30,°C
+Atakpamé,2016,6,temp_min,22,°C
+Atakpamé,2016,7,temp_max,29,°C
+Atakpamé,2016,7,temp_min,22,°C
+Atakpamé,2016,8,temp_max,29,°C
+Atakpamé,2016,8,temp_min,22,°C
+Atakpamé,2016,9,temp_max,30,°C
+Atakpamé,2016,9,temp_min,22,°C
+Atakpamé,2016,10,temp_max,31,°C
+Atakpamé,2016,10,temp_min,22,°C
+Atakpamé,2016,11,temp_max,34,°C
+Atakpamé,2016,11,temp_min,23,°C
+Atakpamé,2016,12,temp_max,34,°C
+Atakpamé,2016,12,temp_min,27,°C
+Atakpamé,2017,1,temp_max,34,°C
+Atakpamé,2017,1,temp_min,23,°C
+Atakpamé,2017,2,temp_max,36,°C
+Atakpamé,2017,2,temp_min,24,°C
+Atakpamé,2017,3,temp_max,36,°C
+Atakpamé,2017,3,temp_min,24,°C
+Atakpamé,2017,4,temp_max,34,°C
+Atakpamé,2017,4,temp_min,23,°C
+Atakpamé,2017,5,temp_max,33,°C
+Atakpamé,2017,5,temp_min,23,°C
+Atakpamé,2017,6,temp_max,31,°C
+Atakpamé,2017,6,temp_min,22,°C
+Atakpamé,2017,7,temp_max,29,°C
+Atakpamé,2017,7,temp_min,22,°C
+Atakpamé,2017,8,temp_max,28,°C
+Atakpamé,2017,8,temp_min,21,°C
+Atakpamé,2017,9,temp_max,29,°C
+Atakpamé,2017,9,temp_min,21,°C
+Atakpamé,2017,10,temp_max,32,°C
+Atakpamé,2017,10,temp_min,22,°C
+Atakpamé,2017,11,temp_max,34,°C
+Atakpamé,2017,11,temp_min,22,°C
+Atakpamé,2017,12,temp_max,34,°C
+Atakpamé,2017,12,temp_min,23,°C
+Atakpamé,2018,1,temp_max,33,°C
+Atakpamé,2018,1,temp_min,23,°C
+Atakpamé,2018,2,temp_max,35,°C
+Atakpamé,2018,2,temp_min,24,°C
+Atakpamé,2018,3,temp_max,34,°C
+Atakpamé,2018,3,temp_min,23,°C
+Atakpamé,2018,4,temp_max,33,°C
+Atakpamé,2018,4,temp_min,23,°C
+Atakpamé,2018,5,temp_max,32,°C
+Atakpamé,2018,5,temp_min,22,°C
+Atakpamé,2018,6,temp_max,30,°C
+Atakpamé,2018,6,temp_min,22,°C
+Atakpamé,2018,7,temp_max,29,°C
+Atakpamé,2018,7,temp_min,22,°C
+Atakpamé,2018,8,temp_max,29,°C
+Atakpamé,2018,8,temp_min,21,°C
+Atakpamé,2018,9,temp_max,30,°C
+Atakpamé,2018,9,temp_min,22,°C
+Atakpamé,2018,10,temp_max,31,°C
+Atakpamé,2018,10,temp_min,22,°C
+Atakpamé,2018,11,temp_max,33,°C
+Atakpamé,2018,11,temp_min,23,°C
+Atakpamé,2018,12,temp_max,33,°C
+Atakpamé,2018,12,temp_min,23,°C
+Atakpamé,2019,1,temp_max,35,°C
+Atakpamé,2019,1,temp_min,23,°C
+Atakpamé,2019,2,temp_max,36,°C
+Atakpamé,2019,2,temp_min,24,°C
+Atakpamé,2019,3,temp_max,35,°C
+Atakpamé,2019,3,temp_min,24,°C
+Atakpamé,2019,4,temp_max,34,°C
+Atakpamé,2019,4,temp_min,23,°C
+Atakpamé,2019,5,temp_max,32,°C
+Atakpamé,2019,5,temp_min,23,°C
+Atakpamé,2019,6,temp_max,31,°C
+Atakpamé,2019,6,temp_min,22,°C
+Atakpamé,2019,7,temp_max,30,°C
+Atakpamé,2019,7,temp_min,23,°C
+Atakpamé,2019,8,temp_max,29,°C
+Atakpamé,2019,8,temp_min,21,°C
+Atakpamé,2019,9,temp_max,30,°C
+Atakpamé,2019,9,temp_min,22,°C
+Atakpamé,2019,10,temp_max,30,°C
+Atakpamé,2019,10,temp_min,22,°C
+Atakpamé,2019,11,temp_max,33,°C
+Atakpamé,2019,11,temp_min,23,°C
+Atakpamé,2019,12,temp_max,34,°C
+Atakpamé,2019,12,temp_min,23,°C
+Dapaong,2013,1,temp_max,34,°C
+Dapaong,2013,1,temp_min,21,°C
+Dapaong,2013,2,temp_max,34,°C
+Dapaong,2013,2,temp_min,24,°C
+Dapaong,2013,3,temp_max,39,°C
+Dapaong,2013,3,temp_min,26,°C
+Dapaong,2013,4,temp_max,36,°C
+Dapaong,2013,4,temp_min,25,°C
+Dapaong,2013,5,temp_max,35,°C
+Dapaong,2013,5,temp_min,24,°C
+Dapaong,2013,6,temp_max,32,°C
+Dapaong,2013,6,temp_min,23,°C
+Dapaong,2013,7,temp_max,30,°C
+Dapaong,2013,7,temp_min,22,°C
+Dapaong,2013,8,temp_max,29,°C
+Dapaong,2013,8,temp_min,21,°C
+Dapaong,2013,9,temp_max,30,°C
+Dapaong,2013,9,temp_min,21,°C
+Dapaong,2013,10,temp_max,34,°C
+Dapaong,2013,10,temp_min,22,°C
+Dapaong,2013,11,temp_max,37,°C
+Dapaong,2013,11,temp_min,23,°C
+Dapaong,2013,12,temp_max,34,°C
+Dapaong,2013,12,temp_min,21,°C
+Dapaong,2014,1,temp_max,35,°C
+Dapaong,2014,1,temp_min,22,°C
+Dapaong,2014,2,temp_max,37,°C
+Dapaong,2014,2,temp_min,24,°C
+Dapaong,2014,3,temp_max,38,°C
+Dapaong,2014,3,temp_min,25,°C
+Dapaong,2014,4,temp_max,37,°C
+Dapaong,2014,4,temp_min,25,°C
+Dapaong,2014,5,temp_max,35,°C
+Dapaong,2014,5,temp_min,25,°C
+Dapaong,2014,6,temp_max,33,°C
+Dapaong,2014,6,temp_min,23,°C
+Dapaong,2014,7,temp_max,31,°C
+Dapaong,2014,7,temp_min,23,°C
+Dapaong,2014,8,temp_max,30,°C
+Dapaong,2014,8,temp_min,22,°C
+Dapaong,2014,9,temp_max,30,°C
+Dapaong,2014,9,temp_min,21,°C
+Dapaong,2014,10,temp_max,33,°C
+Dapaong,2014,10,temp_min,22,°C
+Dapaong,2014,11,temp_max,36,°C
+Dapaong,2014,11,temp_min,23,°C
+Dapaong,2014,12,temp_max,35,°C
+Dapaong,2014,12,temp_min,21,°C
+Dapaong,2015,1,temp_max,33,°C
+Dapaong,2015,1,temp_min,19,°C
+Dapaong,2015,2,temp_max,38,°C
+Dapaong,2015,2,temp_min,24,°C
+Dapaong,2015,3,temp_max,38,°C
+Dapaong,2015,3,temp_min,26,°C
+Dapaong,2015,4,temp_max,39,°C
+Dapaong,2015,4,temp_min,27,°C
+Dapaong,2015,5,temp_max,38,°C
+Dapaong,2015,5,temp_min,26,°C
+Dapaong,2015,6,temp_max,34,°C
+Dapaong,2015,6,temp_min,24,°C
+Dapaong,2015,7,temp_max,32,°C
+Dapaong,2015,7,temp_min,23,°C
+Dapaong,2015,8,temp_max,30,°C
+Dapaong,2015,8,temp_min,22,°C
+Dapaong,2015,9,temp_max,31,°C
+Dapaong,2015,9,temp_min,22,°C
+Dapaong,2015,10,temp_max,33,°C
+Dapaong,2015,10,temp_min,23,°C
+Dapaong,2015,11,temp_max,36,°C
+Dapaong,2015,11,temp_min,23,°C
+Dapaong,2015,12,temp_max,32,°C
+Dapaong,2015,12,temp_min,19,°C
+Dapaong,2016,1,temp_max,34,°C
+Dapaong,2016,1,temp_min,21,°C
+Dapaong,2016,2,temp_max,36,°C
+Dapaong,2016,2,temp_min,23,°C
+Dapaong,2016,3,temp_max,38,°C
+Dapaong,2016,3,temp_min,26,°C
+Dapaong,2016,4,temp_max,38,°C
+Dapaong,2016,4,temp_min,27,°C
+Dapaong,2016,5,temp_max,36,°C
+Dapaong,2016,5,temp_min,25,°C
+Dapaong,2016,6,temp_max,32,°C
+Dapaong,2016,6,temp_min,24,°C
+Dapaong,2016,7,temp_max,30,°C
+Dapaong,2016,7,temp_min,22,°C
+Dapaong,2016,8,temp_max,30,°C
+Dapaong,2016,8,temp_min,22,°C
+Dapaong,2016,9,temp_max,31,°C
+Dapaong,2016,9,temp_min,21,°C
+Dapaong,2016,10,temp_max,34,°C
+Dapaong,2016,10,temp_min,23,°C
+Dapaong,2016,11,temp_max,37,°C
+Dapaong,2016,11,temp_min,24,°C
+Dapaong,2016,12,temp_max,37,°C
+Dapaong,2016,12,temp_min,23,°C
+Dapaong,2017,1,temp_max,35,°C
+Dapaong,2017,1,temp_min,22,°C
+Dapaong,2017,2,temp_max,37,°C
+Dapaong,2017,2,temp_min,23,°C
+Dapaong,2017,3,temp_max,40,°C
+Dapaong,2017,3,temp_min,26,°C
+Dapaong,2017,4,temp_max,39,°C
+Dapaong,2017,4,temp_min,26,°C
+Dapaong,2017,5,temp_max,35,°C
+Dapaong,2017,5,temp_min,24,°C
+Dapaong,2017,6,temp_max,32,°C
+Dapaong,2017,6,temp_min,23,°C
+Dapaong,2017,7,temp_max,30,°C
+Dapaong,2017,7,temp_min,22,°C
+Dapaong,2017,8,temp_max,30,°C
+Dapaong,2017,8,temp_min,22,°C
+Dapaong,2017,9,temp_max,31,°C
+Dapaong,2017,9,temp_min,22,°C
+Dapaong,2017,10,temp_max,34,°C
+Dapaong,2017,10,temp_min,22,°C
+Dapaong,2017,11,temp_max,37,°C
+Dapaong,2017,11,temp_min,22,°C
+Dapaong,2017,12,temp_max,35,°C
+Dapaong,2017,12,temp_min,22,°C
+Dapaong,2018,1,temp_max,33,°C
+Dapaong,2018,1,temp_min,20,°C
+Dapaong,2018,2,temp_max,37,°C
+Dapaong,2018,2,temp_min,24,°C
+Dapaong,2018,3,temp_max,39,°C
+Dapaong,2018,3,temp_min,26,°C
+Dapaong,2018,4,temp_max,39,°C
+Dapaong,2018,4,temp_min,27,°C
+Dapaong,2018,5,temp_max,36,°C
+Dapaong,2018,5,temp_min,25,°C
+Dapaong,2018,6,temp_max,32,°C
+Dapaong,2018,6,temp_min,23,°C
+Dapaong,2018,7,temp_max,30,°C
+Dapaong,2018,7,temp_min,22,°C
+Dapaong,2018,8,temp_max,30,°C
+Dapaong,2018,8,temp_min,22,°C
+Dapaong,2018,9,temp_max,31,°C
+Dapaong,2018,9,temp_min,22,°C
+Dapaong,2018,10,temp_max,34,°C
+Dapaong,2018,10,temp_min,22,°C
+Dapaong,2018,11,temp_max,37,°C
+Dapaong,2018,11,temp_min,23,°C
+Dapaong,2018,12,temp_max,34,°C
+Dapaong,2018,12,temp_min,21,°C
+Dapaong,2019,1,temp_max,35,°C
+Dapaong,2019,1,temp_min,21,°C
+Dapaong,2019,2,temp_max,36,°C
+Dapaong,2019,2,temp_min,23,°C
+Dapaong,2019,3,temp_max,39,°C
+Dapaong,2019,3,temp_min,26,°C
+Dapaong,2019,4,temp_max,39,°C
+Dapaong,2019,4,temp_min,27,°C
+Dapaong,2019,5,temp_max,36,°C
+Dapaong,2019,5,temp_min,26,°C
+Dapaong,2019,6,temp_max,33,°C
+Dapaong,2019,6,temp_min,23,°C
+Dapaong,2019,7,temp_max,31,°C
+Dapaong,2019,7,temp_min,22,°C
+Dapaong,2019,8,temp_max,30,°C
+Dapaong,2019,8,temp_min,22,°C
+Dapaong,2019,9,temp_max,31,°C
+Dapaong,2019,9,temp_min,22,°C
+Dapaong,2019,10,temp_max,32,°C
+Dapaong,2019,10,temp_min,22,°C
+Dapaong,2019,11,temp_max,37,°C
+Dapaong,2019,11,temp_min,23,°C
+Dapaong,2019,12,temp_max,35,°C
+Dapaong,2019,12,temp_min,21,°C
+Kara,2013,1,temp_max,36,°C
+Kara,2013,1,temp_min,19,°C
+Kara,2013,2,temp_max,38,°C
+Kara,2013,2,temp_min,21,°C
+Kara,2013,3,temp_max,37,°C
+Kara,2013,3,temp_min,25,°C
+Kara,2013,4,temp_max,36,°C
+Kara,2013,4,temp_min,24,°C
+Kara,2013,5,temp_max,34,°C
+Kara,2013,5,temp_min,24,°C
+Kara,2013,6,temp_max,32,°C
+Kara,2013,6,temp_min,22,°C
+Kara,2013,7,temp_max,31,°C
+Kara,2013,7,temp_min,22,°C
+Kara,2013,8,temp_max,30,°C
+Kara,2013,8,temp_min,22,°C
+Kara,2013,9,temp_max,30,°C
+Kara,2013,9,temp_min,21,°C
+Kara,2013,10,temp_max,33,°C
+Kara,2013,10,temp_min,21,°C
+Kara,2013,11,temp_max,35,°C
+Kara,2013,11,temp_min,20,°C
+Kara,2013,12,temp_max,35,°C
+Kara,2013,12,temp_min,18,°C
+Kara,2014,1,temp_max,39,°C
+Kara,2014,1,temp_min,22,°C
+Kara,2014,2,temp_max,37,°C
+Kara,2014,2,temp_min,22,°C
+Kara,2014,3,temp_max,36,°C
+Kara,2014,3,temp_min,24,°C
+Kara,2014,4,temp_max,35,°C
+Kara,2014,4,temp_min,24,°C
+Kara,2014,5,temp_max,34,°C
+Kara,2014,5,temp_min,23,°C
+Kara,2014,6,temp_max,33,°C
+Kara,2014,6,temp_min,23,°C
+Kara,2014,7,temp_max,31,°C
+Kara,2014,7,temp_min,23,°C
+Kara,2014,8,temp_max,29,°C
+Kara,2014,8,temp_min,22,°C
+Kara,2014,9,temp_max,31,°C
+Kara,2014,9,temp_min,22,°C
+Kara,2014,10,temp_max,33,°C
+Kara,2014,10,temp_min,22,°C
+Kara,2014,11,temp_max,35,°C
+Kara,2014,11,temp_min,20,°C
+Kara,2014,12,temp_max,39,°C
+Kara,2014,12,temp_min,19,°C
+Kara,2015,1,temp_max,35,°C
+Kara,2015,1,temp_min,18,°C
+Kara,2015,2,temp_max,38,°C
+Kara,2015,2,temp_min,24,°C
+Kara,2015,3,temp_max,37,°C
+Kara,2015,3,temp_min,24,°C
+Kara,2015,4,temp_max,38,°C
+Kara,2015,4,temp_min,25,°C
+Kara,2015,5,temp_max,36,°C
+Kara,2015,5,temp_min,22,°C
+Kara,2015,6,temp_max,34,°C
+Kara,2015,6,temp_min,23,°C
+Kara,2015,7,temp_max,32,°C
+Kara,2015,7,temp_min,23,°C
+Kara,2015,8,temp_max,30,°C
+Kara,2015,8,temp_min,22,°C
+Kara,2015,9,temp_max,32,°C
+Kara,2015,9,temp_min,22,°C
+Kara,2015,10,temp_max,33,°C
+Kara,2015,10,temp_min,22,°C
+Kara,2015,11,temp_max,36,°C
+Kara,2015,11,temp_min,19,°C
+Kara,2015,12,temp_max,34,°C
+Kara,2015,12,temp_min,18,°C
+Kara,2016,1,temp_max,36,°C
+Kara,2016,1,temp_min,19,°C
+Kara,2016,2,temp_max,38,°C
+Kara,2016,2,temp_min,21,°C
+Kara,2016,3,temp_max,38,°C
+Kara,2016,3,temp_min,25,°C
+Kara,2016,4,temp_max,36,°C
+Kara,2016,4,temp_min,24,°C
+Kara,2016,5,temp_max,34,°C
+Kara,2016,5,temp_min,24,°C
+Kara,2016,6,temp_max,32,°C
+Kara,2016,6,temp_min,23,°C
+Kara,2016,7,temp_max,30,°C
+Kara,2016,7,temp_min,22,°C
+Kara,2016,8,temp_max,30,°C
+Kara,2016,8,temp_min,23,°C
+Kara,2016,9,temp_max,31,°C
+Kara,2016,9,temp_min,22,°C
+Kara,2016,10,temp_max,34,°C
+Kara,2016,10,temp_min,22,°C
+Kara,2016,11,temp_max,36,°C
+Kara,2016,11,temp_min,20,°C
+Kara,2016,12,temp_max,36,°C
+Kara,2016,12,temp_min,20,°C
+Kara,2017,1,temp_max,36,°C
+Kara,2017,1,temp_min,19,°C
+Kara,2017,2,temp_max,38,°C
+Kara,2017,2,temp_min,22,°C
+Kara,2017,3,temp_max,39,°C
+Kara,2017,3,temp_min,24,°C
+Kara,2017,4,temp_max,37,°C
+Kara,2017,4,temp_min,25,°C
+Kara,2017,5,temp_max,34,°C
+Kara,2017,5,temp_min,23,°C
+Kara,2017,6,temp_max,32,°C
+Kara,2017,6,temp_min,22,°C
+Kara,2017,7,temp_max,30,°C
+Kara,2017,7,temp_min,22,°C
+Kara,2017,8,temp_max,27,°C
+Kara,2017,8,temp_min,22,°C
+Kara,2017,9,temp_max,31,°C
+Kara,2017,9,temp_min,22,°C
+Kara,2017,10,temp_max,34,°C
+Kara,2017,10,temp_min,21,°C
+Kara,2017,11,temp_max,37,°C
+Kara,2017,11,temp_min,19,°C
+Kara,2017,12,temp_max,36,°C
+Kara,2017,12,temp_min,19,°C
+Kara,2018,1,temp_max,35,°C
+Kara,2018,1,temp_min,18,°C
+Kara,2018,2,temp_max,38,°C
+Kara,2018,2,temp_min,22,°C
+Kara,2018,3,temp_max,37,°C
+Kara,2018,3,temp_min,23,°C
+Kara,2018,4,temp_max,36,°C
+Kara,2018,4,temp_min,24,°C
+Kara,2018,5,temp_max,34,°C
+Kara,2018,5,temp_min,23,°C
+Kara,2018,6,temp_max,32,°C
+Kara,2018,6,temp_min,22,°C
+Kara,2018,7,temp_max,31,°C
+Kara,2018,7,temp_min,23,°C
+Kara,2018,8,temp_max,30,°C
+Kara,2018,8,temp_min,21,°C
+Kara,2018,9,temp_max,32,°C
+Kara,2018,9,temp_min,22,°C
+Kara,2018,10,temp_max,34,°C
+Kara,2018,10,temp_min,22,°C
+Kara,2018,11,temp_max,36,°C
+Kara,2018,11,temp_min,19,°C
+Kara,2018,12,temp_max,35,°C
+Kara,2018,12,temp_min,19,°C
+Kara,2019,1,temp_max,37,°C
+Kara,2019,1,temp_min,18,°C
+Kara,2019,2,temp_max,38,°C
+Kara,2019,2,temp_min,21,°C
+Kara,2019,3,temp_max,39,°C
+Kara,2019,3,temp_min,24,°C
+Kara,2019,4,temp_max,38,°C
+Kara,2019,4,temp_min,25,°C
+Kara,2019,5,temp_max,33,°C
+Kara,2019,5,temp_min,23,°C
+Kara,2019,6,temp_max,32,°C
+Kara,2019,6,temp_min,22,°C
+Kara,2019,7,temp_max,30,°C
+Kara,2019,7,temp_min,22,°C
+Kara,2019,8,temp_max,30,°C
+Kara,2019,8,temp_min,20,°C
+Kara,2019,9,temp_max,31,°C
+Kara,2019,9,temp_min,22,°C
+Kara,2019,10,temp_max,32,°C
+Kara,2019,10,temp_min,22,°C
+Kara,2019,11,temp_max,36,°C
+Kara,2019,11,temp_min,19,°C
+Kara,2019,12,temp_max,36,°C
+Kara,2019,12,temp_min,18,°C
+Kouma konda,2013,1,temp_max,32,°C
+Kouma konda,2013,1,temp_min,21,°C
+Kouma konda,2013,2,temp_max,33,°C
+Kouma konda,2013,2,temp_min,21,°C
+Kouma konda,2013,3,temp_max,31,°C
+Kouma konda,2013,3,temp_min,22,°C
+Kouma konda,2013,4,temp_max,30,°C
+Kouma konda,2013,4,temp_min,21,°C
+Kouma konda,2013,5,temp_max,29,°C
+Kouma konda,2013,5,temp_min,21,°C
+Kouma konda,2013,6,temp_max,28,°C
+Kouma konda,2013,6,temp_min,20,°C
+Kouma konda,2013,7,temp_max,26,°C
+Kouma konda,2013,7,temp_min,20,°C
+Kouma konda,2013,8,temp_max,26,°C
+Kouma konda,2013,8,temp_min,19,°C
+Kouma konda,2013,9,temp_max,28,°C
+Kouma konda,2013,9,temp_min,20,°C
+Kouma konda,2013,10,temp_max,29,°C
+Kouma konda,2013,10,temp_min,20,°C
+Kouma konda,2013,11,temp_max,30,°C
+Kouma konda,2013,11,temp_min,20,°C
+Kouma konda,2013,12,temp_max,31,°C
+Kouma konda,2013,12,temp_min,20,°C
+Kouma konda,2014,1,temp_max,31,°C
+Kouma konda,2014,1,temp_min,21,°C
+Kouma konda,2014,2,temp_max,32,°C
+Kouma konda,2014,2,temp_min,21,°C
+Kouma konda,2014,3,temp_max,32,°C
+Kouma konda,2014,3,temp_min,21,°C
+Kouma konda,2014,4,temp_max,31,°C
+Kouma konda,2014,4,temp_min,21,°C
+Kouma konda,2014,5,temp_max,29,°C
+Kouma konda,2014,5,temp_min,21,°C
+Kouma konda,2014,6,temp_max,28,°C
+Kouma konda,2014,6,temp_min,20,°C
+Kouma konda,2014,7,temp_max,26,°C
+Kouma konda,2014,7,temp_min,20,°C
+Kouma konda,2014,8,temp_max,25,°C
+Kouma konda,2014,8,temp_min,19,°C
+Kouma konda,2014,9,temp_max,26,°C
+Kouma konda,2014,9,temp_min,20,°C
+Kouma konda,2014,10,temp_max,28,°C
+Kouma konda,2014,10,temp_min,20,°C
+Kouma konda,2014,11,temp_max,29,°C
+Kouma konda,2014,11,temp_min,20,°C
+Kouma konda,2014,12,temp_max,30,°C
+Kouma konda,2014,12,temp_min,20,°C
+Kouma konda,2015,1,temp_max,31,°C
+Kouma konda,2015,1,temp_min,20,°C
+Kouma konda,2015,2,temp_max,31,°C
+Kouma konda,2015,2,temp_min,21,°C
+Kouma konda,2015,3,temp_max,31,°C
+Kouma konda,2015,3,temp_min,21,°C
+Kouma konda,2015,4,temp_max,30,°C
+Kouma konda,2015,4,temp_min,21,°C
+Kouma konda,2015,5,temp_max,30,°C
+Kouma konda,2015,5,temp_min,21,°C
+Kouma konda,2015,6,temp_max,28,°C
+Kouma konda,2015,6,temp_min,20,°C
+Kouma konda,2015,7,temp_max,27,°C
+Kouma konda,2015,7,temp_min,19,°C
+Kouma konda,2015,8,temp_max,27,°C
+Kouma konda,2015,8,temp_min,20,°C
+Kouma konda,2015,9,temp_max,27,°C
+Kouma konda,2015,9,temp_min,20,°C
+Kouma konda,2015,10,temp_max,29,°C
+Kouma konda,2015,10,temp_min,20,°C
+Kouma konda,2015,11,temp_max,30,°C
+Kouma konda,2015,11,temp_min,21,°C
+Kouma konda,2015,12,temp_max,31,°C
+Kouma konda,2015,12,temp_min,21,°C
+Kouma konda,2016,1,temp_max,32,°C
+Kouma konda,2016,1,temp_min,21,°C
+Kouma konda,2016,2,temp_max,34,°C
+Kouma konda,2016,2,temp_min,22,°C
+Kouma konda,2016,3,temp_max,32,°C
+Kouma konda,2016,3,temp_min,22,°C
+Kouma konda,2016,4,temp_max,31,°C
+Kouma konda,2016,4,temp_min,22,°C
+Kouma konda,2016,5,temp_max,29,°C
+Kouma konda,2016,5,temp_min,22,°C
+Kouma konda,2016,6,temp_max,27,°C
+Kouma konda,2016,6,temp_min,20,°C
+Kouma konda,2016,7,temp_max,26,°C
+Kouma konda,2016,7,temp_min,20,°C
+Kouma konda,2016,8,temp_max,26,°C
+Kouma konda,2016,8,temp_min,20,°C
+Kouma konda,2016,9,temp_max,27,°C
+Kouma konda,2016,9,temp_min,20,°C
+Kouma konda,2016,10,temp_max,29,°C
+Kouma konda,2016,10,temp_min,20,°C
+Kouma konda,2016,11,temp_max,30,°C
+Kouma konda,2016,11,temp_min,21,°C
+Kouma konda,2016,12,temp_max,31,°C
+Kouma konda,2016,12,temp_min,21,°C
+Kouma konda,2017,1,temp_max,32,°C
+Kouma konda,2017,1,temp_min,21,°C
+Kouma konda,2017,2,temp_max,32,°C
+Kouma konda,2017,2,temp_min,22,°C
+Kouma konda,2017,3,temp_max,32,°C
+Kouma konda,2017,3,temp_min,22,°C
+Kouma konda,2017,4,temp_max,30,°C
+Kouma konda,2017,4,temp_min,22,°C
+Kouma konda,2017,5,temp_max,30,°C
+Kouma konda,2017,5,temp_min,21,°C
+Kouma konda,2017,6,temp_max,28,°C
+Kouma konda,2017,6,temp_min,21,°C
+Kouma konda,2017,7,temp_max,26,°C
+Kouma konda,2017,7,temp_min,20,°C
+Kouma konda,2017,8,temp_max,26,°C
+Kouma konda,2017,8,temp_min,20,°C
+Kouma konda,2017,9,temp_max,27,°C
+Kouma konda,2017,9,temp_min,20,°C
+Kouma konda,2017,10,temp_max,29,°C
+Kouma konda,2017,10,temp_min,21,°C
+Kouma konda,2017,11,temp_max,29,°C
+Kouma konda,2017,11,temp_min,21,°C
+Kouma konda,2017,12,temp_max,30,°C
+Kouma konda,2017,12,temp_min,21,°C
+Kouma konda,2018,1,temp_max,31,°C
+Kouma konda,2018,1,temp_min,21,°C
+Kouma konda,2018,2,temp_max,33,°C
+Kouma konda,2018,2,temp_min,21,°C
+Kouma konda,2018,3,temp_max,31,°C
+Kouma konda,2018,3,temp_min,21,°C
+Kouma konda,2018,4,temp_max,30,°C
+Kouma konda,2018,4,temp_min,21,°C
+Kouma konda,2018,5,temp_max,29,°C
+Kouma konda,2018,5,temp_min,21,°C
+Kouma konda,2018,6,temp_max,27,°C
+Kouma konda,2018,6,temp_min,21,°C
+Kouma konda,2018,7,temp_max,26,°C
+Kouma konda,2018,7,temp_min,21,°C
+Kouma konda,2018,8,temp_max,25,°C
+Kouma konda,2018,8,temp_min,20,°C
+Kouma konda,2018,9,temp_max,26,°C
+Kouma konda,2018,9,temp_min,20,°C
+Kouma konda,2018,10,temp_max,27,°C
+Kouma konda,2018,10,temp_min,20,°C
+Kouma konda,2018,11,temp_max,29,°C
+Kouma konda,2018,11,temp_min,21,°C
+Kouma konda,2018,12,temp_max,30,°C
+Kouma konda,2018,12,temp_min,21,°C
+Kouma konda,2019,1,temp_max,31,°C
+Kouma konda,2019,1,temp_min,21,°C
+Kouma konda,2019,2,temp_max,31,°C
+Kouma konda,2019,2,temp_min,22,°C
+Kouma konda,2019,3,temp_max,31,°C
+Kouma konda,2019,3,temp_min,22,°C
+Kouma konda,2019,4,temp_max,30,°C
+Kouma konda,2019,4,temp_min,22,°C
+Kouma konda,2019,5,temp_max,29,°C
+Kouma konda,2019,5,temp_min,21,°C
+Kouma konda,2019,6,temp_max,27,°C
+Kouma konda,2019,6,temp_min,22,°C
+Kouma konda,2019,7,temp_max,26,°C
+Kouma konda,2019,7,temp_min,20,°C
+Kouma konda,2019,8,temp_max,26,°C
+Kouma konda,2019,8,temp_min,20,°C
+Kouma konda,2019,9,temp_max,26,°C
+Kouma konda,2019,9,temp_min,20,°C
+Kouma konda,2019,10,temp_max,26,°C
+Kouma konda,2019,10,temp_min,21,°C
+Kouma konda,2019,11,temp_max,29,°C
+Kouma konda,2019,11,temp_min,21,°C
+Kouma konda,2019,12,temp_max,31,°C
+Kouma konda,2019,12,temp_min,21,°C
+Lomé,2013,1,temp_max,34,°C
+Lomé,2013,1,temp_min,24,°C
+Lomé,2013,2,temp_max,33,°C
+Lomé,2013,2,temp_min,26,°C
+Lomé,2013,3,temp_max,34,°C
+Lomé,2013,3,temp_min,26,°C
+Lomé,2013,4,temp_max,34,°C
+Lomé,2013,4,temp_min,25,°C
+Lomé,2013,5,temp_max,32,°C
+Lomé,2013,5,temp_min,25,°C
+Lomé,2013,6,temp_max,31,°C
+Lomé,2013,6,temp_min,24,°C
+Lomé,2013,7,temp_max,30,°C
+Lomé,2013,7,temp_min,24,°C
+Lomé,2013,8,temp_max,31,°C
+Lomé,2013,8,temp_min,23,°C
+Lomé,2013,9,temp_max,30,°C
+Lomé,2013,9,temp_min,24,°C
+Lomé,2013,10,temp_max,32,°C
+Lomé,2013,10,temp_min,24,°C
+Lomé,2013,11,temp_max,33,°C
+Lomé,2013,11,temp_min,25,°C
+Lomé,2013,12,temp_max,33,°C
+Lomé,2013,12,temp_min,25,°C
+Lomé,2014,1,temp_max,33,°C
+Lomé,2014,1,temp_min,25,°C
+Lomé,2014,2,temp_max,38,°C
+Lomé,2014,2,temp_min,24,°C
+Lomé,2014,3,temp_max,34,°C
+Lomé,2014,3,temp_min,25,°C
+Lomé,2014,4,temp_max,34,°C
+Lomé,2014,4,temp_min,25,°C
+Lomé,2014,5,temp_max,33,°C
+Lomé,2014,5,temp_min,25,°C
+Lomé,2014,6,temp_max,31,°C
+Lomé,2014,6,temp_min,24,°C
+Lomé,2014,7,temp_max,30,°C
+Lomé,2014,7,temp_min,24,°C
+Lomé,2014,8,temp_max,29,°C
+Lomé,2014,8,temp_min,23,°C
+Lomé,2014,9,temp_max,30,°C
+Lomé,2014,9,temp_min,24,°C
+Lomé,2014,10,temp_max,32,°C
+Lomé,2014,10,temp_min,24,°C
+Lomé,2014,11,temp_max,34,°C
+Lomé,2014,11,temp_min,25,°C
+Lomé,2014,12,temp_max,34,°C
+Lomé,2014,12,temp_min,25,°C
+Lomé,2015,1,temp_max,33,°C
+Lomé,2015,1,temp_min,23,°C
+Lomé,2015,2,temp_max,34,°C
+Lomé,2015,2,temp_min,26,°C
+Lomé,2015,3,temp_max,34,°C
+Lomé,2015,3,temp_min,26,°C
+Lomé,2015,4,temp_max,34,°C
+Lomé,2015,4,temp_min,26,°C
+Lomé,2015,5,temp_max,34,°C
+Lomé,2015,5,temp_min,26,°C
+Lomé,2015,6,temp_max,31,°C
+Lomé,2015,6,temp_min,24,°C
+Lomé,2015,7,temp_max,30,°C
+Lomé,2015,7,temp_min,24,°C
+Lomé,2015,8,temp_max,30,°C
+Lomé,2015,8,temp_min,24,°C
+Lomé,2015,9,temp_max,30,°C
+Lomé,2015,9,temp_min,24,°C
+Lomé,2015,10,temp_max,32,°C
+Lomé,2015,10,temp_min,25,°C
+Lomé,2015,11,temp_max,33,°C
+Lomé,2015,11,temp_min,25,°C
+Lomé,2015,12,temp_max,34,°C
+Lomé,2015,12,temp_min,23,°C
+Lomé,2016,1,temp_max,34,°C
+Lomé,2016,1,temp_min,24,°C
+Lomé,2016,2,temp_max,33,°C
+Lomé,2016,2,temp_min,27,°C
+Lomé,2016,3,temp_max,33,°C
+Lomé,2016,3,temp_min,26,°C
+Lomé,2016,4,temp_max,33,°C
+Lomé,2016,4,temp_min,26,°C
+Lomé,2016,5,temp_max,32,°C
+Lomé,2016,5,temp_min,26,°C
+Lomé,2016,6,temp_max,30,°C
+Lomé,2016,6,temp_min,24,°C
+Lomé,2016,7,temp_max,30,°C
+Lomé,2016,7,temp_min,24,°C
+Lomé,2016,8,temp_max,30,°C
+Lomé,2016,8,temp_min,24,°C
+Lomé,2016,9,temp_max,31,°C
+Lomé,2016,9,temp_min,24,°C
+Lomé,2016,10,temp_max,32,°C
+Lomé,2016,10,temp_min,25,°C
+Lomé,2016,11,temp_max,33,°C
+Lomé,2016,11,temp_min,26,°C
+Lomé,2016,12,temp_max,34,°C
+Lomé,2016,12,temp_min,27,°C
+Lomé,2017,1,temp_max,33,°C
+Lomé,2017,1,temp_min,25,°C
+Lomé,2017,2,temp_max,34,°C
+Lomé,2017,2,temp_min,26,°C
+Lomé,2017,3,temp_max,34,°C
+Lomé,2017,3,temp_min,27,°C
+Lomé,2017,4,temp_max,34,°C
+Lomé,2017,4,temp_min,26,°C
+Lomé,2017,5,temp_max,33,°C
+Lomé,2017,5,temp_min,25,°C
+Lomé,2017,6,temp_max,31,°C
+Lomé,2017,6,temp_min,24,°C
+Lomé,2017,7,temp_max,29,°C
+Lomé,2017,7,temp_min,24,°C
+Lomé,2017,8,temp_max,29,°C
+Lomé,2017,8,temp_min,23,°C
+Lomé,2017,9,temp_max,30,°C
+Lomé,2017,9,temp_min,24,°C
+Lomé,2017,10,temp_max,32,°C
+Lomé,2017,10,temp_min,25,°C
+Lomé,2017,11,temp_max,33,°C
+Lomé,2017,11,temp_min,25,°C
+Lomé,2017,12,temp_max,33,°C
+Lomé,2017,12,temp_min,25,°C
+Lomé,2018,1,temp_max,33,°C
+Lomé,2018,1,temp_min,24,°C
+Lomé,2018,2,temp_max,33,°C
+Lomé,2018,2,temp_min,26,°C
+Lomé,2018,3,temp_max,33,°C
+Lomé,2018,3,temp_min,24,°C
+Lomé,2018,4,temp_max,33,°C
+Lomé,2018,4,temp_min,26,°C
+Lomé,2018,5,temp_max,33,°C
+Lomé,2018,5,temp_min,25,°C
+Lomé,2018,6,temp_max,31,°C
+Lomé,2018,6,temp_min,24,°C
+Lomé,2018,7,temp_max,30,°C
+Lomé,2018,7,temp_min,24,°C
+Lomé,2018,8,temp_max,30,°C
+Lomé,2018,8,temp_min,24,°C
+Lomé,2018,9,temp_max,31,°C
+Lomé,2018,9,temp_min,24,°C
+Lomé,2018,10,temp_max,32,°C
+Lomé,2018,10,temp_min,24,°C
+Lomé,2018,11,temp_max,34,°C
+Lomé,2018,11,temp_min,25,°C
+Lomé,2018,12,temp_max,34,°C
+Lomé,2018,12,temp_min,25,°C
+Lomé,2019,1,temp_max,34,°C
+Lomé,2019,1,temp_min,25,°C
+Lomé,2019,2,temp_max,34,°C
+Lomé,2019,2,temp_min,27,°C
+Lomé,2019,3,temp_max,34,°C
+Lomé,2019,3,temp_min,26,°C
+Lomé,2019,4,temp_max,34,°C
+Lomé,2019,4,temp_min,27,°C
+Lomé,2019,5,temp_max,32,°C
+Lomé,2019,5,temp_min,25,°C
+Lomé,2019,6,temp_max,31,°C
+Lomé,2019,6,temp_min,25,°C
+Lomé,2019,7,temp_max,30,°C
+Lomé,2019,7,temp_min,24,°C
+Lomé,2019,8,temp_max,30,°C
+Lomé,2019,8,temp_min,24,°C
+Lomé,2019,9,temp_max,31,°C
+Lomé,2019,9,temp_min,24,°C
+Lomé,2019,10,temp_max,31,°C
+Lomé,2019,10,temp_min,24,°C
+Lomé,2019,11,temp_max,33,°C
+Lomé,2019,11,temp_min,25,°C
+Lomé,2019,12,temp_max,34,°C
+Lomé,2019,12,temp_min,25,°C
+Mango,2013,1,temp_max,36,°C
+Mango,2013,1,temp_min,20,°C
+Mango,2013,2,temp_max,39,°C
+Mango,2013,2,temp_min,22,°C
+Mango,2013,3,temp_max,40,°C
+Mango,2013,3,temp_min,27,°C
+Mango,2013,4,temp_max,37,°C
+Mango,2013,4,temp_min,25,°C
+Mango,2013,5,temp_max,35,°C
+Mango,2013,5,temp_min,24,°C
+Mango,2013,6,temp_max,33,°C
+Mango,2013,6,temp_min,23,°C
+Mango,2013,7,temp_max,32,°C
+Mango,2013,7,temp_min,23,°C
+Mango,2013,8,temp_max,31,°C
+Mango,2013,8,temp_min,23,°C
+Mango,2013,9,temp_max,32,°C
+Mango,2013,9,temp_min,23,°C
+Mango,2013,10,temp_max,35,°C
+Mango,2013,10,temp_min,23,°C
+Mango,2013,11,temp_max,38,°C
+Mango,2013,11,temp_min,22,°C
+Mango,2013,12,temp_max,36,°C
+Mango,2013,12,temp_min,19,°C
+Mango,2014,1,temp_max,36,°C
+Mango,2014,1,temp_min,21,°C
+Mango,2014,2,temp_max,38,°C
+Mango,2014,2,temp_min,23,°C
+Mango,2014,3,temp_max,39,°C
+Mango,2014,3,temp_min,26,°C
+Mango,2014,4,temp_max,37,°C
+Mango,2014,4,temp_min,26,°C
+Mango,2014,5,temp_max,36,°C
+Mango,2014,5,temp_min,26,°C
+Mango,2014,6,temp_max,35,°C
+Mango,2014,6,temp_min,24,°C
+Mango,2014,7,temp_max,33,°C
+Mango,2014,7,temp_min,24,°C
+Mango,2014,8,temp_max,31,°C
+Mango,2014,8,temp_min,23,°C
+Mango,2014,9,temp_max,31,°C
+Mango,2014,9,temp_min,22,°C
+Mango,2014,10,temp_max,35,°C
+Mango,2014,10,temp_min,23,°C
+Mango,2014,11,temp_max,37,°C
+Mango,2014,11,temp_min,23,°C
+Mango,2014,12,temp_max,36,°C
+Mango,2014,12,temp_min,20,°C
+Mango,2015,1,temp_max,35,°C
+Mango,2015,1,temp_min,19,°C
+Mango,2015,2,temp_max,38,°C
+Mango,2015,2,temp_min,23,°C
+Mango,2015,3,temp_max,39,°C
+Mango,2015,3,temp_min,26,°C
+Mango,2015,4,temp_max,39,°C
+Mango,2015,4,temp_min,26,°C
+Mango,2015,5,temp_max,38,°C
+Mango,2015,5,temp_min,26,°C
+Mango,2015,6,temp_max,35,°C
+Mango,2015,6,temp_min,25,°C
+Mango,2015,7,temp_max,32,°C
+Mango,2015,7,temp_min,24,°C
+Mango,2015,8,temp_max,31,°C
+Mango,2015,8,temp_min,23,°C
+Mango,2015,9,temp_max,32,°C
+Mango,2015,9,temp_min,25,°C
+Mango,2015,10,temp_max,34,°C
+Mango,2015,10,temp_min,23,°C
+Mango,2015,11,temp_max,37,°C
+Mango,2015,11,temp_min,21,°C
+Mango,2015,12,temp_max,34,°C
+Mango,2015,12,temp_min,19,°C
+Mango,2016,1,temp_max,37,°C
+Mango,2016,1,temp_min,20,°C
+Mango,2016,2,temp_max,38,°C
+Mango,2016,2,temp_min,23,°C
+Mango,2016,3,temp_max,39,°C
+Mango,2016,3,temp_min,27,°C
+Mango,2016,4,temp_max,39,°C
+Mango,2016,4,temp_min,27,°C
+Mango,2016,5,temp_max,37,°C
+Mango,2016,5,temp_min,26,°C
+Mango,2016,6,temp_max,34,°C
+Mango,2016,6,temp_min,25,°C
+Mango,2016,7,temp_max,31,°C
+Mango,2016,7,temp_min,23,°C
+Mango,2016,8,temp_max,31,°C
+Mango,2016,8,temp_min,24,°C
+Mango,2016,9,temp_max,32,°C
+Mango,2016,9,temp_min,23,°C
+Mango,2016,10,temp_max,36,°C
+Mango,2016,10,temp_min,24,°C
+Mango,2016,11,temp_max,38,°C
+Mango,2016,11,temp_min,22,°C
+Mango,2016,12,temp_max,37,°C
+Mango,2016,12,temp_min,21,°C
+Mango,2017,1,temp_max,36,°C
+Mango,2017,1,temp_min,20,°C
+Mango,2017,2,temp_max,38,°C
+Mango,2017,2,temp_min,23,°C
+Mango,2017,3,temp_max,40,°C
+Mango,2017,3,temp_min,26,°C
+Mango,2017,4,temp_max,39,°C
+Mango,2017,4,temp_min,27,°C
+Mango,2017,5,temp_max,35,°C
+Mango,2017,5,temp_min,25,°C
+Mango,2017,6,temp_max,33,°C
+Mango,2017,6,temp_min,24,°C
+Mango,2017,7,temp_max,31,°C
+Mango,2017,7,temp_min,23,°C
+Mango,2017,8,temp_max,31,°C
+Mango,2017,8,temp_min,23,°C
+Mango,2017,9,temp_max,32,°C
+Mango,2017,9,temp_min,23,°C
+Mango,2017,10,temp_max,36,°C
+Mango,2017,10,temp_min,22,°C
+Mango,2017,11,temp_max,38,°C
+Mango,2017,11,temp_min,21,°C
+Mango,2017,12,temp_max,36,°C
+Mango,2017,12,temp_min,21,°C
+Mango,2018,1,temp_max,36,°C
+Mango,2018,1,temp_min,20,°C
+Mango,2018,2,temp_max,39,°C
+Mango,2018,2,temp_min,25,°C
+Mango,2018,3,temp_max,40,°C
+Mango,2018,3,temp_min,27,°C
+Mango,2018,4,temp_max,40,°C
+Mango,2018,4,temp_min,28,°C
+Mango,2018,5,temp_max,37,°C
+Mango,2018,5,temp_min,25,°C
+Mango,2018,6,temp_max,32,°C
+Mango,2018,6,temp_min,24,°C
+Mango,2018,7,temp_max,32,°C
+Mango,2018,7,temp_min,23,°C
+Mango,2018,8,temp_max,31,°C
+Mango,2018,8,temp_min,23,°C
+Mango,2018,9,temp_max,32,°C
+Mango,2018,9,temp_min,24,°C
+Mango,2018,10,temp_max,35,°C
+Mango,2018,10,temp_min,23,°C
+Mango,2018,11,temp_max,38,°C
+Mango,2018,11,temp_min,21,°C
+Mango,2018,12,temp_max,37,°C
+Mango,2018,12,temp_min,20,°C
+Mango,2019,1,temp_max,37,°C
+Mango,2019,1,temp_min,21,°C
+Mango,2019,2,temp_max,36,°C
+Mango,2019,2,temp_min,21,°C
+Mango,2019,3,temp_max,41,°C
+Mango,2019,3,temp_min,27,°C
+Mango,2019,4,temp_max,40,°C
+Mango,2019,4,temp_min,28,°C
+Mango,2019,5,temp_max,37,°C
+Mango,2019,5,temp_min,27,°C
+Mango,2019,6,temp_max,34,°C
+Mango,2019,6,temp_min,25,°C
+Mango,2019,7,temp_max,33,°C
+Mango,2019,7,temp_min,24,°C
+Mango,2019,8,temp_max,32,°C
+Mango,2019,8,temp_min,24,°C
+Mango,2019,9,temp_max,31,°C
+Mango,2019,9,temp_min,24,°C
+Mango,2019,10,temp_max,34,°C
+Mango,2019,10,temp_min,23,°C
+Mango,2019,11,temp_max,38,°C
+Mango,2019,11,temp_min,22,°C
+Mango,2019,12,temp_max,37,°C
+Mango,2019,12,temp_min,19,°C
+Niamtougou,2013,1,temp_max,34,°C
+Niamtougou,2013,1,temp_min,19,°C
+Niamtougou,2013,2,temp_max,36,°C
+Niamtougou,2013,2,temp_min,21,°C
+Niamtougou,2013,3,temp_max,36,°C
+Niamtougou,2013,3,temp_min,23,°C
+Niamtougou,2013,4,temp_max,34,°C
+Niamtougou,2013,4,temp_min,22,°C
+Niamtougou,2013,5,temp_max,32,°C
+Niamtougou,2013,5,temp_min,21,°C
+Niamtougou,2013,6,temp_max,30,°C
+Niamtougou,2013,6,temp_min,21,°C
+Niamtougou,2013,7,temp_max,29,°C
+Niamtougou,2013,7,temp_min,21,°C
+Niamtougou,2013,8,temp_max,28,°C
+Niamtougou,2013,8,temp_min,20,°C
+Niamtougou,2013,9,temp_max,29,°C
+Niamtougou,2013,9,temp_min,20,°C
+Niamtougou,2013,10,temp_max,32,°C
+Niamtougou,2013,10,temp_min,20,°C
+Niamtougou,2013,11,temp_max,34,°C
+Niamtougou,2013,11,temp_min,19,°C
+Niamtougou,2013,12,temp_max,34,°C
+Niamtougou,2013,12,temp_min,17,°C
+Niamtougou,2014,1,temp_max,34,°C
+Niamtougou,2014,1,temp_min,19,°C
+Niamtougou,2014,2,temp_max,36,°C
+Niamtougou,2014,2,temp_min,21,°C
+Niamtougou,2014,3,temp_max,36,°C
+Niamtougou,2014,3,temp_min,23,°C
+Niamtougou,2014,4,temp_max,34,°C
+Niamtougou,2014,4,temp_min,22,°C
+Niamtougou,2014,5,temp_max,33,°C
+Niamtougou,2014,5,temp_min,22,°C
+Niamtougou,2014,6,temp_max,31,°C
+Niamtougou,2014,6,temp_min,21,°C
+Niamtougou,2014,7,temp_max,29,°C
+Niamtougou,2014,7,temp_min,21,°C
+Niamtougou,2014,8,temp_max,28,°C
+Niamtougou,2014,8,temp_min,20,°C
+Niamtougou,2014,9,temp_max,30,°C
+Niamtougou,2014,9,temp_min,20,°C
+Niamtougou,2014,10,temp_max,32,°C
+Niamtougou,2014,10,temp_min,21,°C
+Niamtougou,2014,11,temp_max,33,°C
+Niamtougou,2014,11,temp_min,20,°C
+Niamtougou,2014,12,temp_max,35,°C
+Niamtougou,2014,12,temp_min,18,°C
+Niamtougou,2015,1,temp_max,33,°C
+Niamtougou,2015,1,temp_min,18,°C
+Niamtougou,2015,2,temp_max,36,°C
+Niamtougou,2015,2,temp_min,21,°C
+Niamtougou,2015,3,temp_max,35,°C
+Niamtougou,2015,3,temp_min,23,°C
+Niamtougou,2015,4,temp_max,36,°C
+Niamtougou,2015,4,temp_min,23,°C
+Niamtougou,2015,5,temp_max,34,°C
+Niamtougou,2015,5,temp_min,23,°C
+Niamtougou,2015,6,temp_max,32,°C
+Niamtougou,2015,6,temp_min,22,°C
+Niamtougou,2015,7,temp_max,30,°C
+Niamtougou,2015,7,temp_min,21,°C
+Niamtougou,2015,8,temp_max,29,°C
+Niamtougou,2015,8,temp_min,21,°C
+Niamtougou,2015,9,temp_max,30,°C
+Niamtougou,2015,9,temp_min,21,°C
+Niamtougou,2015,10,temp_max,33,°C
+Niamtougou,2015,10,temp_min,21,°C
+Niamtougou,2015,11,temp_max,34,°C
+Niamtougou,2015,11,temp_min,19,°C
+Niamtougou,2015,12,temp_max,32,°C
+Niamtougou,2015,12,temp_min,18,°C
+Niamtougou,2016,1,temp_max,33,°C
+Niamtougou,2016,1,temp_min,19,°C
+Niamtougou,2016,2,temp_max,36,°C
+Niamtougou,2016,2,temp_min,21,°C
+Niamtougou,2016,3,temp_max,38,°C
+Niamtougou,2016,3,temp_min,23,°C
+Niamtougou,2016,4,temp_max,34,°C
+Niamtougou,2016,4,temp_min,23,°C
+Niamtougou,2016,5,temp_max,33,°C
+Niamtougou,2016,5,temp_min,23,°C
+Niamtougou,2016,6,temp_max,31,°C
+Niamtougou,2016,6,temp_min,21,°C
+Niamtougou,2016,7,temp_max,29,°C
+Niamtougou,2016,7,temp_min,21,°C
+Niamtougou,2016,8,temp_max,29,°C
+Niamtougou,2016,8,temp_min,21,°C
+Niamtougou,2016,9,temp_max,30,°C
+Niamtougou,2016,9,temp_min,20,°C
+Niamtougou,2016,10,temp_max,33,°C
+Niamtougou,2016,10,temp_min,21,°C
+Niamtougou,2016,11,temp_max,35,°C
+Niamtougou,2016,11,temp_min,19,°C
+Niamtougou,2016,12,temp_max,35,°C
+Niamtougou,2016,12,temp_min,19,°C
+Niamtougou,2017,1,temp_max,35,°C
+Niamtougou,2017,1,temp_min,19,°C
+Niamtougou,2017,2,temp_max,36,°C
+Niamtougou,2017,2,temp_min,21,°C
+Niamtougou,2017,3,temp_max,38,°C
+Niamtougou,2017,3,temp_min,22,°C
+Niamtougou,2017,4,temp_max,35,°C
+Niamtougou,2017,4,temp_min,23,°C
+Niamtougou,2017,5,temp_max,32,°C
+Niamtougou,2017,5,temp_min,21,°C
+Niamtougou,2017,6,temp_max,30,°C
+Niamtougou,2017,6,temp_min,21,°C
+Niamtougou,2017,7,temp_max,29,°C
+Niamtougou,2017,7,temp_min,20,°C
+Niamtougou,2017,8,temp_max,28,°C
+Niamtougou,2017,8,temp_min,20,°C
+Niamtougou,2017,9,temp_max,30,°C
+Niamtougou,2017,9,temp_min,20,°C
+Niamtougou,2017,10,temp_max,33,°C
+Niamtougou,2017,10,temp_min,21,°C
+Niamtougou,2017,11,temp_max,35,°C
+Niamtougou,2017,11,temp_min,19,°C
+Niamtougou,2017,12,temp_max,33,°C
+Niamtougou,2017,12,temp_min,19,°C
+Niamtougou,2018,1,temp_max,33,°C
+Niamtougou,2018,1,temp_min,19,°C
+Niamtougou,2018,2,temp_max,36,°C
+Niamtougou,2018,2,temp_min,22,°C
+Niamtougou,2018,3,temp_max,36,°C
+Niamtougou,2018,3,temp_min,23,°C
+Niamtougou,2018,4,temp_max,35,°C
+Niamtougou,2018,4,temp_min,23,°C
+Niamtougou,2018,5,temp_max,33,°C
+Niamtougou,2018,5,temp_min,23,°C
+Niamtougou,2018,6,temp_max,30,°C
+Niamtougou,2018,6,temp_min,22,°C
+Niamtougou,2018,7,temp_max,29,°C
+Niamtougou,2018,7,temp_min,21,°C
+Niamtougou,2018,8,temp_max,29,°C
+Niamtougou,2018,8,temp_min,21,°C
+Niamtougou,2018,9,temp_max,30,°C
+Niamtougou,2018,9,temp_min,21,°C
+Niamtougou,2018,10,temp_max,32,°C
+Niamtougou,2018,10,temp_min,22,°C
+Niamtougou,2018,11,temp_max,34,°C
+Niamtougou,2018,11,temp_min,20,°C
+Niamtougou,2018,12,temp_max,34,°C
+Niamtougou,2018,12,temp_min,18,°C
+Niamtougou,2019,1,temp_max,35,°C
+Niamtougou,2019,1,temp_min,20,°C
+Niamtougou,2019,2,temp_max,36,°C
+Niamtougou,2019,2,temp_min,22,°C
+Niamtougou,2019,3,temp_max,38,°C
+Niamtougou,2019,3,temp_min,24,°C
+Niamtougou,2019,4,temp_max,36,°C
+Niamtougou,2019,4,temp_min,25,°C
+Niamtougou,2019,5,temp_max,33,°C
+Niamtougou,2019,5,temp_min,23,°C
+Niamtougou,2019,6,temp_max,31,°C
+Niamtougou,2019,6,temp_min,23,°C
+Niamtougou,2019,7,temp_max,29,°C
+Niamtougou,2019,7,temp_min,22,°C
+Niamtougou,2019,8,temp_max,28,°C
+Niamtougou,2019,8,temp_min,22,°C
+Niamtougou,2019,9,temp_max,30,°C
+Niamtougou,2019,9,temp_min,21,°C
+Niamtougou,2019,10,temp_max,30,°C
+Niamtougou,2019,10,temp_min,21,°C
+Niamtougou,2019,11,temp_max,34,°C
+Niamtougou,2019,11,temp_min,20,°C
+Niamtougou,2019,12,temp_max,35,°C
+Niamtougou,2019,12,temp_min,20,°C
+Sokodé,2013,1,temp_max,35,°C
+Sokodé,2013,1,temp_min,19,°C
+Sokodé,2013,2,temp_max,38,°C
+Sokodé,2013,2,temp_min,21,°C
+Sokodé,2013,3,temp_max,36,°C
+Sokodé,2013,3,temp_min,23,°C
+Sokodé,2013,4,temp_max,34,°C
+Sokodé,2013,4,temp_min,22,°C
+Sokodé,2013,5,temp_max,33,°C
+Sokodé,2013,5,temp_min,22,°C
+Sokodé,2013,6,temp_max,32,°C
+Sokodé,2013,6,temp_min,21,°C
+Sokodé,2013,7,temp_max,30,°C
+Sokodé,2013,7,temp_min,21,°C
+Sokodé,2013,8,temp_max,29,°C
+Sokodé,2013,8,temp_min,21,°C
+Sokodé,2013,9,temp_max,30,°C
+Sokodé,2013,9,temp_min,22,°C
+Sokodé,2013,10,temp_max,33,°C
+Sokodé,2013,10,temp_min,21,°C
+Sokodé,2013,11,temp_max,35,°C
+Sokodé,2013,11,temp_min,20,°C
+Sokodé,2013,12,temp_max,35,°C
+Sokodé,2013,12,temp_min,19,°C
+Sokodé,2014,1,temp_max,35,°C
+Sokodé,2014,1,temp_min,20,°C
+Sokodé,2014,2,temp_max,36,°C
+Sokodé,2014,2,temp_min,21,°C
+Sokodé,2014,3,temp_max,36,°C
+Sokodé,2014,3,temp_min,23,°C
+Sokodé,2014,4,temp_max,35,°C
+Sokodé,2014,4,temp_min,23,°C
+Sokodé,2014,5,temp_max,33,°C
+Sokodé,2014,5,temp_min,23,°C
+Sokodé,2014,6,temp_max,33,°C
+Sokodé,2014,6,temp_min,23,°C
+Sokodé,2014,7,temp_max,31,°C
+Sokodé,2014,7,temp_min,22,°C
+Sokodé,2014,8,temp_max,29,°C
+Sokodé,2014,8,temp_min,21,°C
+Sokodé,2014,9,temp_max,31,°C
+Sokodé,2014,9,temp_min,21,°C
+Sokodé,2014,10,temp_max,33,°C
+Sokodé,2014,10,temp_min,22,°C
+Sokodé,2014,11,temp_max,34,°C
+Sokodé,2014,11,temp_min,21,°C
+Sokodé,2014,12,temp_max,35,°C
+Sokodé,2014,12,temp_min,19,°C
+Sokodé,2015,1,temp_max,35,°C
+Sokodé,2015,1,temp_min,19,°C
+Sokodé,2015,2,temp_max,37,°C
+Sokodé,2015,2,temp_min,22,°C
+Sokodé,2015,3,temp_max,36,°C
+Sokodé,2015,3,temp_min,23,°C
+Sokodé,2015,4,temp_max,37,°C
+Sokodé,2015,4,temp_min,23,°C
+Sokodé,2015,5,temp_max,35,°C
+Sokodé,2015,5,temp_min,23,°C
+Sokodé,2015,6,temp_max,31,°C
+Sokodé,2015,6,temp_min,22,°C
+Sokodé,2015,7,temp_max,31,°C
+Sokodé,2015,7,temp_min,22,°C
+Sokodé,2015,8,temp_max,29,°C
+Sokodé,2015,8,temp_min,22,°C
+Sokodé,2015,9,temp_max,30,°C
+Sokodé,2015,9,temp_min,22,°C
+Sokodé,2015,10,temp_max,32,°C
+Sokodé,2015,10,temp_min,22,°C
+Sokodé,2015,11,temp_max,35,°C
+Sokodé,2015,11,temp_min,20,°C
+Sokodé,2015,12,temp_max,33,°C
+Sokodé,2015,12,temp_min,20,°C
+Sokodé,2016,1,temp_max,35,°C
+Sokodé,2016,1,temp_min,20,°C
+Sokodé,2016,2,temp_max,37,°C
+Sokodé,2016,2,temp_min,22,°C
+Sokodé,2016,3,temp_max,36,°C
+Sokodé,2016,3,temp_min,24,°C
+Sokodé,2016,4,temp_max,34,°C
+Sokodé,2016,4,temp_min,24,°C
+Sokodé,2016,5,temp_max,33,°C
+Sokodé,2016,5,temp_min,23,°C
+Sokodé,2016,6,temp_max,31,°C
+Sokodé,2016,6,temp_min,22,°C
+Sokodé,2016,7,temp_max,30,°C
+Sokodé,2016,7,temp_min,22,°C
+Sokodé,2016,8,temp_max,29,°C
+Sokodé,2016,8,temp_min,22,°C
+Sokodé,2016,9,temp_max,30,°C
+Sokodé,2016,9,temp_min,22,°C
+Sokodé,2016,10,temp_max,33,°C
+Sokodé,2016,10,temp_min,22,°C
+Sokodé,2016,11,temp_max,36,°C
+Sokodé,2016,11,temp_min,20,°C
+Sokodé,2016,12,temp_max,35,°C
+Sokodé,2016,12,temp_min,20,°C
+Sokodé,2017,1,temp_max,36,°C
+Sokodé,2017,1,temp_min,20,°C
+Sokodé,2017,2,temp_max,34,°C
+Sokodé,2017,2,temp_min,20,°C
+Sokodé,2017,3,temp_max,38,°C
+Sokodé,2017,3,temp_min,23,°C
+Sokodé,2017,4,temp_max,35,°C
+Sokodé,2017,4,temp_min,24,°C
+Sokodé,2017,5,temp_max,33,°C
+Sokodé,2017,5,temp_min,23,°C
+Sokodé,2017,6,temp_max,31,°C
+Sokodé,2017,6,temp_min,22,°C
+Sokodé,2017,7,temp_max,29,°C
+Sokodé,2017,7,temp_min,22,°C
+Sokodé,2017,8,temp_max,29,°C
+Sokodé,2017,8,temp_min,21,°C
+Sokodé,2017,9,temp_max,30,°C
+Sokodé,2017,9,temp_min,22,°C
+Sokodé,2017,10,temp_max,34,°C
+Sokodé,2017,10,temp_min,21,°C
+Sokodé,2017,11,temp_max,35,°C
+Sokodé,2017,11,temp_min,20,°C
+Sokodé,2017,12,temp_max,35,°C
+Sokodé,2017,12,temp_min,19,°C
+Sokodé,2018,1,temp_max,34,°C
+Sokodé,2018,1,temp_min,19,°C
+Sokodé,2018,2,temp_max,37,°C
+Sokodé,2018,2,temp_min,22,°C
+Sokodé,2018,3,temp_max,35,°C
+Sokodé,2018,3,temp_min,23,°C
+Sokodé,2018,4,temp_max,35,°C
+Sokodé,2018,4,temp_min,23,°C
+Sokodé,2018,5,temp_max,33,°C
+Sokodé,2018,5,temp_min,23,°C
+Sokodé,2018,6,temp_max,31,°C
+Sokodé,2018,6,temp_min,22,°C
+Sokodé,2018,7,temp_max,30,°C
+Sokodé,2018,7,temp_min,22,°C
+Sokodé,2018,8,temp_max,29,°C
+Sokodé,2018,8,temp_min,22,°C
+Sokodé,2018,9,temp_max,30,°C
+Sokodé,2018,9,temp_min,22,°C
+Sokodé,2018,10,temp_max,32,°C
+Sokodé,2018,10,temp_min,22,°C
+Sokodé,2018,11,temp_max,35,°C
+Sokodé,2018,11,temp_min,20,°C
+Sokodé,2018,12,temp_max,35,°C
+Sokodé,2018,12,temp_min,19,°C
+Sokodé,2019,1,temp_max,36,°C
+Sokodé,2019,1,temp_min,20,°C
+Sokodé,2019,2,temp_max,37,°C
+Sokodé,2019,2,temp_min,23,°C
+Sokodé,2019,3,temp_max,37,°C
+Sokodé,2019,3,temp_min,24,°C
+Sokodé,2019,4,temp_max,35,°C
+Sokodé,2019,4,temp_min,24,°C
+Sokodé,2019,5,temp_max,34,°C
+Sokodé,2019,5,temp_min,23,°C
+Sokodé,2019,6,temp_max,31,°C
+Sokodé,2019,6,temp_min,22,°C
+Sokodé,2019,7,temp_max,30,°C
+Sokodé,2019,7,temp_min,22,°C
+Sokodé,2019,8,temp_max,29,°C
+Sokodé,2019,8,temp_min,22,°C
+Sokodé,2019,9,temp_max,30,°C
+Sokodé,2019,9,temp_min,22,°C
+Sokodé,2019,10,temp_max,31,°C
+Sokodé,2019,10,temp_min,22,°C
+Sokodé,2019,11,temp_max,34,°C
+Sokodé,2019,11,temp_min,21,°C
+Sokodé,2019,12,temp_max,35,°C
+Sokodé,2019,12,temp_min,18,°C
+Sotouboua,2013,1,temp_max,35,°C
+Sotouboua,2013,1,temp_min,18,°C
+Sotouboua,2013,2,temp_max,36,°C
+Sotouboua,2013,2,temp_min,21,°C
+Sotouboua,2013,3,temp_max,36,°C
+Sotouboua,2013,3,temp_min,23,°C
+Sotouboua,2013,4,temp_max,34,°C
+Sotouboua,2013,4,temp_min,23,°C
+Sotouboua,2013,5,temp_max,34,°C
+Sotouboua,2013,5,temp_min,23,°C
+Sotouboua,2013,6,temp_max,32,°C
+Sotouboua,2013,6,temp_min,22,°C
+Sotouboua,2013,7,temp_max,30,°C
+Sotouboua,2013,7,temp_min,22,°C
+Sotouboua,2013,8,temp_max,29,°C
+Sotouboua,2013,8,temp_min,22,°C
+Sotouboua,2013,9,temp_max,29,°C
+Sotouboua,2013,9,temp_min,22,°C
+Sotouboua,2013,10,temp_max,32,°C
+Sotouboua,2013,10,temp_min,22,°C
+Sotouboua,2013,11,temp_max,34,°C
+Sotouboua,2013,11,temp_min,22,°C
+Sotouboua,2013,12,temp_max,35,°C
+Sotouboua,2013,12,temp_min,18,°C
+Sotouboua,2014,1,temp_max,35,°C
+Sotouboua,2014,1,temp_min,20,°C
+Sotouboua,2014,2,temp_max,36,°C
+Sotouboua,2014,2,temp_min,20,°C
+Sotouboua,2014,3,temp_max,36,°C
+Sotouboua,2014,3,temp_min,22,°C
+Sotouboua,2014,4,temp_max,35,°C
+Sotouboua,2014,4,temp_min,23,°C
+Sotouboua,2014,5,temp_max,33,°C
+Sotouboua,2014,5,temp_min,23,°C
+Sotouboua,2014,6,temp_max,33,°C
+Sotouboua,2014,6,temp_min,23,°C
+Sotouboua,2014,7,temp_max,31,°C
+Sotouboua,2014,7,temp_min,22,°C
+Sotouboua,2014,8,temp_max,29,°C
+Sotouboua,2014,8,temp_min,21,°C
+Sotouboua,2014,9,temp_max,30,°C
+Sotouboua,2014,9,temp_min,22,°C
+Sotouboua,2014,10,temp_max,32,°C
+Sotouboua,2014,10,temp_min,22,°C
+Sotouboua,2014,11,temp_max,34,°C
+Sotouboua,2014,11,temp_min,21,°C
+Sotouboua,2014,12,temp_max,35,°C
+Sotouboua,2014,12,temp_min,18,°C
+Sotouboua,2015,1,temp_max,34,°C
+Sotouboua,2015,1,temp_min,16,°C
+Sotouboua,2015,2,temp_max,36,°C
+Sotouboua,2015,2,temp_min,21,°C
+Sotouboua,2015,3,temp_max,37,°C
+Sotouboua,2015,3,temp_min,22,°C
+Sotouboua,2015,4,temp_max,35,°C
+Sotouboua,2015,4,temp_min,23,°C
+Sotouboua,2015,5,temp_max,34,°C
+Sotouboua,2015,5,temp_min,22,°C
+Sotouboua,2015,6,temp_max,30,°C
+Sotouboua,2015,6,temp_min,22,°C
+Sotouboua,2015,7,temp_max,31,°C
+Sotouboua,2015,7,temp_min,22,°C
+Sotouboua,2015,8,temp_max,30,°C
+Sotouboua,2015,8,temp_min,22,°C
+Sotouboua,2015,9,temp_max,31,°C
+Sotouboua,2015,9,temp_min,22,°C
+Sotouboua,2015,10,temp_max,32,°C
+Sotouboua,2015,10,temp_min,22,°C
+Sotouboua,2015,11,temp_max,35,°C
+Sotouboua,2015,11,temp_min,20,°C
+Sotouboua,2015,12,temp_max,33,°C
+Sotouboua,2015,12,temp_min,17,°C
+Sotouboua,2016,1,temp_max,36,°C
+Sotouboua,2016,1,temp_min,19,°C
+Sotouboua,2016,2,temp_max,36,°C
+Sotouboua,2016,2,temp_min,19,°C
+Sotouboua,2016,3,temp_max,36,°C
+Sotouboua,2016,3,temp_min,22,°C
+Sotouboua,2016,4,temp_max,38,°C
+Sotouboua,2016,4,temp_min,23,°C
+Sotouboua,2016,5,temp_max,37,°C
+Sotouboua,2016,5,temp_min,23,°C
+Sotouboua,2016,6,temp_max,33,°C
+Sotouboua,2016,6,temp_min,23,°C
+Sotouboua,2016,7,temp_max,31,°C
+Sotouboua,2016,7,temp_min,22,°C
+Sotouboua,2016,8,temp_max,30,°C
+Sotouboua,2016,8,temp_min,22,°C
+Sotouboua,2016,9,temp_max,31,°C
+Sotouboua,2016,9,temp_min,22,°C
+Sotouboua,2016,10,temp_max,33,°C
+Sotouboua,2016,10,temp_min,23,°C
+Sotouboua,2016,11,temp_max,36,°C
+Sotouboua,2016,11,temp_min,21,°C
+Sotouboua,2016,12,temp_max,35,°C
+Sotouboua,2016,12,temp_min,19,°C
+Sotouboua,2017,1,temp_max,35,°C
+Sotouboua,2017,1,temp_min,18,°C
+Sotouboua,2017,2,temp_max,33,°C
+Sotouboua,2017,2,temp_min,18,°C
+Sotouboua,2017,3,temp_max,37,°C
+Sotouboua,2017,3,temp_min,24,°C
+Sotouboua,2017,4,temp_max,35,°C
+Sotouboua,2017,4,temp_min,24,°C
+Sotouboua,2017,5,temp_max,33,°C
+Sotouboua,2017,5,temp_min,24,°C
+Sotouboua,2017,6,temp_max,31,°C
+Sotouboua,2017,6,temp_min,23,°C
+Sotouboua,2017,7,temp_max,30,°C
+Sotouboua,2017,7,temp_min,22,°C
+Sotouboua,2017,8,temp_max,29,°C
+Sotouboua,2017,8,temp_min,22,°C
+Sotouboua,2017,9,temp_max,30,°C
+Sotouboua,2017,9,temp_min,22,°C
+Sotouboua,2017,10,temp_max,33,°C
+Sotouboua,2017,10,temp_min,22,°C
+Sotouboua,2017,11,temp_max,35,°C
+Sotouboua,2017,11,temp_min,21,°C
+Sotouboua,2017,12,temp_max,34,°C
+Sotouboua,2017,12,temp_min,19,°C
+Sotouboua,2018,1,temp_max,34,°C
+Sotouboua,2018,1,temp_min,17,°C
+Sotouboua,2018,2,temp_max,34,°C
+Sotouboua,2018,2,temp_min,20,°C
+Sotouboua,2018,3,temp_max,35,°C
+Sotouboua,2018,3,temp_min,24,°C
+Sotouboua,2018,4,temp_max,35,°C
+Sotouboua,2018,4,temp_min,24,°C
+Sotouboua,2018,5,temp_max,32,°C
+Sotouboua,2018,5,temp_min,23,°C
+Sotouboua,2018,6,temp_max,31,°C
+Sotouboua,2018,6,temp_min,23,°C
+Sotouboua,2018,7,temp_max,29,°C
+Sotouboua,2018,7,temp_min,22,°C
+Sotouboua,2018,8,temp_max,29,°C
+Sotouboua,2018,8,temp_min,22,°C
+Sotouboua,2018,9,temp_max,31,°C
+Sotouboua,2018,9,temp_min,22,°C
+Sotouboua,2018,10,temp_max,32,°C
+Sotouboua,2018,10,temp_min,22,°C
+Sotouboua,2018,11,temp_max,35,°C
+Sotouboua,2018,11,temp_min,20,°C
+Sotouboua,2018,12,temp_max,34,°C
+Sotouboua,2018,12,temp_min,17,°C
+Sotouboua,2019,1,temp_max,35,°C
+Sotouboua,2019,1,temp_min,18,°C
+Sotouboua,2019,2,temp_max,34,°C
+Sotouboua,2019,2,temp_min,19,°C
+Sotouboua,2019,3,temp_max,37,°C
+Sotouboua,2019,3,temp_min,23,°C
+Sotouboua,2019,4,temp_max,35,°C
+Sotouboua,2019,4,temp_min,24,°C
+Sotouboua,2019,5,temp_max,34,°C
+Sotouboua,2019,5,temp_min,24,°C
+Sotouboua,2019,6,temp_max,31,°C
+Sotouboua,2019,6,temp_min,23,°C
+Sotouboua,2019,7,temp_max,30,°C
+Sotouboua,2019,7,temp_min,22,°C
+Sotouboua,2019,8,temp_max,30,°C
+Sotouboua,2019,8,temp_min,22,°C
+Sotouboua,2019,9,temp_max,30,°C
+Sotouboua,2019,9,temp_min,22,°C
+Sotouboua,2019,10,temp_max,31,°C
+Sotouboua,2019,10,temp_min,22,°C
+Sotouboua,2019,11,temp_max,34,°C
+Sotouboua,2019,11,temp_min,22,°C
+Sotouboua,2019,12,temp_max,34,°C
+Sotouboua,2019,12,temp_min,17,°C
+Tabligbo,2013,1,temp_max,36,°C
+Tabligbo,2013,1,temp_min,22,°C
+Tabligbo,2013,2,temp_max,37,°C
+Tabligbo,2013,2,temp_min,24,°C
+Tabligbo,2013,3,temp_max,36,°C
+Tabligbo,2013,3,temp_min,25,°C
+Tabligbo,2013,4,temp_max,36,°C
+Tabligbo,2013,4,temp_min,24,°C
+Tabligbo,2013,5,temp_max,34,°C
+Tabligbo,2013,5,temp_min,23,°C
+Tabligbo,2013,6,temp_max,33,°C
+Tabligbo,2013,6,temp_min,23,°C
+Tabligbo,2013,7,temp_max,32,°C
+Tabligbo,2013,7,temp_min,21,°C
+Tabligbo,2013,8,temp_max,30,°C
+Tabligbo,2013,8,temp_min,22,°C
+Tabligbo,2013,9,temp_max,32,°C
+Tabligbo,2013,9,temp_min,23,°C
+Tabligbo,2013,10,temp_max,33,°C
+Tabligbo,2013,10,temp_min,23,°C
+Tabligbo,2013,11,temp_max,34,°C
+Tabligbo,2013,11,temp_min,23,°C
+Tabligbo,2013,12,temp_max,35,°C
+Tabligbo,2013,12,temp_min,23,°C
+Tabligbo,2014,1,temp_max,35,°C
+Tabligbo,2014,1,temp_min,24,°C
+Tabligbo,2014,2,temp_max,36,°C
+Tabligbo,2014,2,temp_min,22,°C
+Tabligbo,2014,3,temp_max,35,°C
+Tabligbo,2014,3,temp_min,24,°C
+Tabligbo,2014,4,temp_max,34,°C
+Tabligbo,2014,4,temp_min,24,°C
+Tabligbo,2014,5,temp_max,34,°C
+Tabligbo,2014,5,temp_min,24,°C
+Tabligbo,2014,6,temp_max,32,°C
+Tabligbo,2014,6,temp_min,23,°C
+Tabligbo,2014,7,temp_max,31,°C
+Tabligbo,2014,7,temp_min,23,°C
+Tabligbo,2014,8,temp_max,30,°C
+Tabligbo,2014,8,temp_min,22,°C
+Tabligbo,2014,9,temp_max,31,°C
+Tabligbo,2014,9,temp_min,23,°C
+Tabligbo,2014,10,temp_max,33,°C
+Tabligbo,2014,10,temp_min,23,°C
+Tabligbo,2014,11,temp_max,34,°C
+Tabligbo,2014,11,temp_min,23,°C
+Tabligbo,2014,12,temp_max,36,°C
+Tabligbo,2014,12,temp_min,22,°C
+Tabligbo,2015,1,temp_max,36,°C
+Tabligbo,2015,1,temp_min,20,°C
+Tabligbo,2015,2,temp_max,36,°C
+Tabligbo,2015,2,temp_min,25,°C
+Tabligbo,2015,3,temp_max,35,°C
+Tabligbo,2015,3,temp_min,24,°C
+Tabligbo,2015,4,temp_max,35,°C
+Tabligbo,2015,4,temp_min,25,°C
+Tabligbo,2015,5,temp_max,35,°C
+Tabligbo,2015,5,temp_min,24,°C
+Tabligbo,2015,6,temp_max,32,°C
+Tabligbo,2015,6,temp_min,23,°C
+Tabligbo,2015,7,temp_max,32,°C
+Tabligbo,2015,7,temp_min,23,°C
+Tabligbo,2015,8,temp_max,32,°C
+Tabligbo,2015,8,temp_min,23,°C
+Tabligbo,2015,9,temp_max,33,°C
+Tabligbo,2015,9,temp_min,23,°C
+Tabligbo,2015,10,temp_max,35,°C
+Tabligbo,2015,10,temp_min,24,°C
+Tabligbo,2015,11,temp_max,35,°C
+Tabligbo,2015,11,temp_min,23,°C
+Tabligbo,2015,12,temp_max,36,°C
+Tabligbo,2015,12,temp_min,20,°C
+Tabligbo,2016,1,temp_max,37,°C
+Tabligbo,2016,1,temp_min,22,°C
+Tabligbo,2016,2,temp_max,38,°C
+Tabligbo,2016,2,temp_min,25,°C
+Tabligbo,2016,3,temp_max,36,°C
+Tabligbo,2016,3,temp_min,26,°C
+Tabligbo,2016,4,temp_max,36,°C
+Tabligbo,2016,4,temp_min,25,°C
+Tabligbo,2016,5,temp_max,35,°C
+Tabligbo,2016,5,temp_min,24,°C
+Tabligbo,2016,6,temp_max,32,°C
+Tabligbo,2016,6,temp_min,23,°C
+Tabligbo,2016,7,temp_max,32,°C
+Tabligbo,2016,7,temp_min,23,°C
+Tabligbo,2016,8,temp_max,31,°C
+Tabligbo,2016,8,temp_min,23,°C
+Tabligbo,2016,9,temp_max,32,°C
+Tabligbo,2016,9,temp_min,23,°C
+Tabligbo,2016,10,temp_max,34,°C
+Tabligbo,2016,10,temp_min,23,°C
+Tabligbo,2016,11,temp_max,35,°C
+Tabligbo,2016,11,temp_min,24,°C
+Tabligbo,2016,12,temp_max,36,°C
+Tabligbo,2016,12,temp_min,23,°C
+Tabligbo,2017,1,temp_max,36,°C
+Tabligbo,2017,1,temp_min,23,°C
+Tabligbo,2017,2,temp_max,37,°C
+Tabligbo,2017,2,temp_min,24,°C
+Tabligbo,2017,3,temp_max,37,°C
+Tabligbo,2017,3,temp_min,25,°C
+Tabligbo,2017,4,temp_max,35,°C
+Tabligbo,2017,4,temp_min,24,°C
+Tabligbo,2017,5,temp_max,34,°C
+Tabligbo,2017,5,temp_min,24,°C
+Tabligbo,2017,6,temp_max,33,°C
+Tabligbo,2017,6,temp_min,24,°C
+Tabligbo,2017,7,temp_max,31,°C
+Tabligbo,2017,7,temp_min,23,°C
+Tabligbo,2017,8,temp_max,30,°C
+Tabligbo,2017,8,temp_min,22,°C
+Tabligbo,2017,9,temp_max,31,°C
+Tabligbo,2017,9,temp_min,23,°C
+Tabligbo,2017,10,temp_max,34,°C
+Tabligbo,2017,10,temp_min,24,°C
+Tabligbo,2017,11,temp_max,34,°C
+Tabligbo,2017,11,temp_min,23,°C
+Tabligbo,2017,12,temp_max,34,°C
+Tabligbo,2017,12,temp_min,23,°C
+Tabligbo,2018,1,temp_max,36,°C
+Tabligbo,2018,1,temp_min,22,°C
+Tabligbo,2018,2,temp_max,36,°C
+Tabligbo,2018,2,temp_min,25,°C
+Tabligbo,2018,3,temp_max,35,°C
+Tabligbo,2018,3,temp_min,25,°C
+Tabligbo,2018,4,temp_max,35,°C
+Tabligbo,2018,4,temp_min,24,°C
+Tabligbo,2018,5,temp_max,34,°C
+Tabligbo,2018,5,temp_min,25,°C
+Tabligbo,2018,6,temp_max,32,°C
+Tabligbo,2018,6,temp_min,23,°C
+Tabligbo,2018,7,temp_max,31,°C
+Tabligbo,2018,7,temp_min,23,°C
+Tabligbo,2018,8,temp_max,31,°C
+Tabligbo,2018,8,temp_min,23,°C
+Tabligbo,2018,9,temp_max,32,°C
+Tabligbo,2018,9,temp_min,23,°C
+Tabligbo,2018,10,temp_max,33,°C
+Tabligbo,2018,10,temp_min,23,°C
+Tabligbo,2018,11,temp_max,34,°C
+Tabligbo,2018,11,temp_min,24,°C
+Tabligbo,2018,12,temp_max,36,°C
+Tabligbo,2018,12,temp_min,22,°C
+Tabligbo,2019,1,temp_max,36,°C
+Tabligbo,2019,1,temp_min,24,°C
+Tabligbo,2019,2,temp_max,36,°C
+Tabligbo,2019,2,temp_min,25,°C
+Tabligbo,2019,3,temp_max,36,°C
+Tabligbo,2019,3,temp_min,25,°C
+Tabligbo,2019,4,temp_max,35,°C
+Tabligbo,2019,4,temp_min,25,°C
+Tabligbo,2019,5,temp_max,35,°C
+Tabligbo,2019,5,temp_min,25,°C
+Tabligbo,2019,6,temp_max,32,°C
+Tabligbo,2019,6,temp_min,23,°C
+Tabligbo,2019,7,temp_max,32,°C
+Tabligbo,2019,7,temp_min,23,°C
+Tabligbo,2019,8,temp_max,31,°C
+Tabligbo,2019,8,temp_min,23,°C
+Tabligbo,2019,9,temp_max,31,°C
+Tabligbo,2019,9,temp_min,23,°C
+Tabligbo,2019,10,temp_max,32,°C
+Tabligbo,2019,10,temp_min,24,°C
+Tabligbo,2019,11,temp_max,34,°C
+Tabligbo,2019,11,temp_min,23,°C
+Tabligbo,2019,12,temp_max,35,°C
+Tabligbo,2019,12,temp_min,23,°C
